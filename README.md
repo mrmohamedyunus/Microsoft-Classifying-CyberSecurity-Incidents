@@ -1,4 +1,3 @@
-Here’s a professional summary of your project, formatted similarly to your example:
 
 ---
 
