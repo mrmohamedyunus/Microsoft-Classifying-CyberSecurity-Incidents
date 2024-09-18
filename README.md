@@ -2,7 +2,6 @@
 ---
 
 ### Microsoft Cybersecurity Incident Classification
-**Author:** Mohamed Yunus
 
 #### Project Overview
 The Microsoft Cybersecurity Incident Classification project aims to enhance the efficiency of Security Operation Centers (SOCs) by developing a sophisticated machine learning model to predict the triage grade of cybersecurity incidents. The model categorizes incidents into True Positive (TP), Benign Positive (BP), or False Positive (FP), enabling SOC analysts to prioritize and respond to threats with greater accuracy and efficiency.
